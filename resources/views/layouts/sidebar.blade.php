@@ -12,7 +12,7 @@
         </div>
         <div class="sidebar-menu">
             <ul class="menu">
-                <li class="sidebar-title">Menu</li>
+                <li class="sidebar-title">Menu Utama</li>
 
                 <li class="sidebar-item active ">
                     <a href="index.html" class='sidebar-link'>
@@ -21,33 +21,104 @@
                     </a>
                 </li>
 
-                <li class="sidebar-title">Kelola Data</li>
+                <li class="sidebar-item  ">
+                    <a href="form-layout.html" class='sidebar-link'>
+                        <i class="bi bi-file-earmark-medical-fill"></i>
+                        <span>Data Leader</span>
+                    </a>
+                </li>
+
+
+                <li class="sidebar-title">Kelola Data IN</li>
 
 
                 <li class="sidebar-item  ">
                     <a href="form-layout.html" class='sidebar-link'>
                         <i class="bi bi-file-earmark-medical-fill"></i>
-                        <span>User</span>
+                        <span>Peserta Aktif</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item  ">
                     <a href="form-layout.html" class='sidebar-link'>
                         <i class="bi bi-file-earmark-medical-fill"></i>
-                        <span>Produk</span>
+                        <span>Kelengkapan Administrasi</span>
                     </a>
                 </li>
 
-                <li class="sidebar-title">Transaksi</li>
+                
+                <li class="sidebar-item  ">
+                    <a href="form-layout.html" class='sidebar-link'>
+                        <i class="bi bi-file-earmark-medical-fill"></i>
+                        <span>On Boarding</span>
+                    </a>
+                </li>
+
+
+                <li class="sidebar-item  ">
+                    <a href="form-layout.html" class='sidebar-link'>
+                        <i class="bi bi-file-earmark-medical-fill"></i>
+                        <span>On Boarding (private) </span>
+                    </a>
+                </li>
+
+                <li class="sidebar-title">Kelola Data Maintenace</li>
+
+                <li class="sidebar-item  ">
+                    <a href="/" class='sidebar-link'>
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>Safety Induction</span>
+                    </a>
+                </li>
+
+                <li class="sidebar-item  ">
+                    <a href="/jogging" class='sidebar-link'>
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>Absen Jogging</span>
+                    </a>
+                </li>
 
                 <li class="sidebar-item  ">
                     <a href="application-email.html" class='sidebar-link'>
                         <i class="bi bi-envelope-fill"></i>
-                        <span>Pembayaran</span>
+                        <span>Absen Zumba Senin</span>
                     </a>
                 </li>
 
-                <li class="sidebar-title">Autentikasi</li>
+                <li class="sidebar-item  ">
+                    <a href="application-email.html" class='sidebar-link'>
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>Absen Zumba Jumat</span>
+                    </a>
+                </li>
+
+             
+                <li class="sidebar-item  ">
+                    <a href="application-email.html" class='sidebar-link'>
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>Absen Dhuha</span>
+                    </a>
+                </li>
+
+                <li class="sidebar-item  ">
+                    <a href="application-email.html" class='sidebar-link'>
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>Absen Makan Siang</span>
+                    </a>
+                </li>
+
+
+                <li class="sidebar-title">Kelola Data Out</li>
+
+                <li class="sidebar-item  ">
+                    <a href="application-email.html" class='sidebar-link'>
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>Peserta Keluar</span>
+                    </a>
+                </li>
+
+                <li class="sidebar-title">Sistem</li>
+
 
                 <li class="sidebar-item  ">
                     <a href="application-email.html" class='sidebar-link'>

@@ -45,13 +45,6 @@
 
                 <li class="sidebar-item  ">
                     <a href="form-layout.html" class='sidebar-link'>
-                        <i class="bi bi-person-check"></i>
-                        <span>Peserta Aktif</span>
-                    </a>
-                </li>
-
-                <li class="sidebar-item  ">
-                    <a href="form-layout.html" class='sidebar-link'>
                         <i class="bi bi-file-check"></i>
                         <span>Kelengkapan Administrasi</span>
                     </a>
@@ -75,29 +68,37 @@
 
                 <li class="sidebar-title">Kelola Data Maintenace</li>
 
+                
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
-                        <i class="bi bi-exclamation-octagon"></i>
-                        <span>Sefty Induction</span>
+                    <a href="/paktif" class='sidebar-link'>
+                        <i class="bi bi-person-check"></i>
+                        <span>Peserta Aktif</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/saction" class='sidebar-link'>
+                        <i class="bi bi-exclamation-octagon"></i>
+                        <span>Safety Induction</span>
+                    </a>
+                </li>
+
+                <li class="sidebar-item  ">
+                    <a href="/jogging" class='sidebar-link'>
                         <i class="bi bi-brightness-alt-high"></i>
                         <span>Absen Jogging</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/zumnin" class='sidebar-link'>
                         <i class="bi bi-dice-1"></i>         
                          <span>Absen Zumba Senin</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/zumat" class='sidebar-link'>
                         <i class="bi bi-dice-5"></i>
                         <span>Absen Zumba Jumat</span>
                     </a>
@@ -105,14 +106,14 @@
 
              
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/dhuha" class='sidebar-link'>
                         <i class="bi bi-droplet"></i>
                         <span>Absen Dhuha</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/lunch" class='sidebar-link'>
                         <i class="bi bi-egg"></i>
                         <span>Absen Makan Siang</span>
                     </a>

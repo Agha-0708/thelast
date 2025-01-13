@@ -1,5 +1,5 @@
 @extends('layouts.master')
-@section('title', 'Dashboard')
+@section('title', 'Human Capital Service - PT. Len ')
 @section('content')
     
 <section class="row">
@@ -15,7 +15,7 @@
                                 </div>
                             </div>
                             <div class="col-md-8">
-                                <h6 class="text-muted font-semibold">Profile Views</h6>
+                                <h6 class="text-muted font-semibold">Peserta Aktif</h6>
                                 <h6 class="font-extrabold mb-0">112.000</h6>
                             </div>
                         </div>
@@ -32,7 +32,7 @@
                                 </div>
                             </div>
                             <div class="col-md-8">
-                                <h6 class="text-muted font-semibold">Followers</h6>
+                                <h6 class="text-muted font-semibold">Peserta IN</h6>
                                 <h6 class="font-extrabold mb-0">183.000</h6>
                             </div>
                         </div>
@@ -49,7 +49,7 @@
                                 </div>
                             </div>
                             <div class="col-md-8">
-                                <h6 class="text-muted font-semibold">Following</h6>
+                                <h6 class="text-muted font-semibold">Peserta OUT</h6>
                                 <h6 class="font-extrabold mb-0">80.000</h6>
                             </div>
                         </div>
@@ -77,16 +77,16 @@
 
         <div class="row">
             <div class="col-12 col-md-6 order-md-1 order-last">
-                <h3>DataTable</h3>
-                <p class="text-subtitle text-muted">For user to check they list</p>
+                <h3>Riwayat Peserta Aktif</h3>
+                <p class="text-subtitle text-muted">Berikut Data terlampir :</p>
             </div>
         </div>
 
         <section class="section">
             <div class="card">
-                <div class="card-header">
-                    Simple Datatable
-                </div>
+                {{-- <div class="card-header">
+                   
+                </div> --}}
                 <div class="card-body">
                     <table class="table table-bordered" id="table1">
                         <thead>

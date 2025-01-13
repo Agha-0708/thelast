@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard - Mazer Admin Dashboard</title>
+    <title>Human Capital Service - PT. Len </title>
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -31,7 +31,7 @@
             </header>
 
             <div class="page-heading">
-                <h3>Halaman @yield('title')</h3>
+                <h3> @yield('title')</h3>
             </div>
             <div class="page-content">
                 @yield('content')

@@ -35,13 +35,6 @@
                 <li class="sidebar-item  ">
                     <a href="form-layout.html" class='sidebar-link'>
                         <i class="bi bi-file-earmark-medical-fill"></i>
-                        <span>Peserta Aktif</span>
-                    </a>
-                </li>
-
-                <li class="sidebar-item  ">
-                    <a href="form-layout.html" class='sidebar-link'>
-                        <i class="bi bi-file-earmark-medical-fill"></i>
                         <span>Kelengkapan Administrasi</span>
                     </a>
                 </li>
@@ -65,7 +58,13 @@
                 <li class="sidebar-title">Kelola Data Maintenace</li>
 
                 <li class="sidebar-item  ">
-                    <a href="/" class='sidebar-link'>
+                    <a href="/paktif" class='sidebar-link'>
+                        <i class="bi bi-envelope-fill"></i>
+                        <span>Peserta Aktif</span>
+                    </a>
+                </li>
+                <li class="sidebar-item  ">
+                    <a href="/saction" class='sidebar-link'>
                         <i class="bi bi-envelope-fill"></i>
                         <span>Safety Induction</span>
                     </a>
@@ -79,14 +78,14 @@
                 </li>
 
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/zumnin" class='sidebar-link'>
                         <i class="bi bi-envelope-fill"></i>
                         <span>Absen Zumba Senin</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/zumat" class='sidebar-link'>
                         <i class="bi bi-envelope-fill"></i>
                         <span>Absen Zumba Jumat</span>
                     </a>
@@ -94,14 +93,14 @@
 
              
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/dhuha" class='sidebar-link'>
                         <i class="bi bi-envelope-fill"></i>
                         <span>Absen Dhuha</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/lunch" class='sidebar-link'>
                         <i class="bi bi-envelope-fill"></i>
                         <span>Absen Makan Siang</span>
                     </a>

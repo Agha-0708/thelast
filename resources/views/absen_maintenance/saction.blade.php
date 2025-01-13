@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Absen Jogging</title>
+    <title>Safety Induction</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
@@ -12,8 +12,8 @@
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <div class="card shadow">
-                    <div class="card-header bg-success text-white text-center">
-                        <h4>Form Absen Jogging</h4>
+                    <div class="card-header bg-danger text-white text-center">
+                        <h4>Form Kehadiran Safety Induction</h4>
                     </div>
                     <div class="card-body">
                         <form action="/submit-absen" method="POST">
@@ -49,7 +49,7 @@
 
                             <!-- Tombol Submit -->
                             <div class="text-center mt-3">
-                                <button type="submit" class="btn btn-success">Submit</button>
+                                <button type="submit" class="btn btn-primary">Submit</button>
                                 <button type="reset" class="btn btn-secondary">Reset</button>
                             </div>
                         </form>

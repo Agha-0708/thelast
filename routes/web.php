@@ -14,8 +14,33 @@ Route::get('/', function () {
 });
 
 Route::get('/jogging', function () {
-    return view('jogging'); // Pastikan jogging.blade.php ada di resources/views/
+    return view('absen_maintenance.jogging'); 
 });
+
+Route::get('/dhuha', function () {
+    return view('absen_maintenance.dhuha'); 
+});
+
+Route::get('/lunch', function () {
+    return view('absen_maintenance.lunch'); 
+});
+
+Route::get('/zumat', function () {
+    return view('absen_maintenance.zumat'); 
+});
+
+Route::get('/zumnin', function () {
+    return view('absen_maintenance.zumnin'); 
+});
+
+Route::get('/saction', function () {
+    return view('absen_maintenance.saction'); 
+});
+
+Route::get('/paktif', function () {
+    return view('absen_maintenance.paktif'); 
+});
+
 
 Route::get('/form-absen', function () {
     return view('form-absen'); // Ganti dengan nama file Blade Anda

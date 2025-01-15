@@ -133,7 +133,7 @@
 
 
                 <li class="sidebar-item  ">
-                    <a href="application-email.html" class='sidebar-link'>
+                    <a href="/logout" class='sidebar-link' onclick= "return confirm('Apa anda yakin akan logout?')">
                         <i class="bi bi-box-arrow-left"></i>
                         <span>Logout</span>
                     </a>

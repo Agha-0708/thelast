@@ -17,7 +17,7 @@ Route::middleware(['auth'])->group(function(){
 Route::get( '/', [DashboardController::class,'index']);
 
    
-Route::get('/user', [UserController::class,'index']);
+
 Route::get('/user/tambah', [UserController::class,'create']);
 Route::post('/user/simpan', [UserController::class,'store']);
 
